@@ -1,6 +1,6 @@
-# Hi, I am Minetrio1256,
-## I do Minecraft modding, plugins, ressource pack and data packs.
-## I also do modding for other games and make my own!
+# Hi, I am Minetrio1256, 
+I do Minecraft modding, plugins, ressource pack and data packs.
+I also do modding for other games and make my own!
 
 
 
